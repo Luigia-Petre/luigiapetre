@@ -32,4 +32,3 @@ date_format: Jan 2006
 - Academic Advisor for the {{< staticref "https://www.abo.fi/en/study-programme/masters-degree-programme-in-information-technology/" "newtab" >}}International Master's program in Computer Science at Åbo Akademi University{{< /staticref>}}, 2018- .
 - On sabbatical at {{< staticref "https://www.usf.edu/" "newtab" >}}University of South Florida{{< /staticref>}}, Tampa, US, during 1.8.2017-30.6.2018. Project \"Ref-Adapt: Refinement-Based Modeling for Adaptive Networks\", funded by the Ella and Georg EhrnroothFoundation.
 
-Luigia was born in Romania
