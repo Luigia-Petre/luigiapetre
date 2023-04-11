@@ -11,12 +11,13 @@ email: "luigia.petre@abo.fi"
 first_name: Luigia
 highlight_name: true
 interests:
-- Machine Learning and data science
+- Machine Learning and Data Science
 - Formal Methods
-- Network Modeling and analysis
+- Machine Learning Explainability
+- Teaching Methods
 last_name: Petre
 organizations:
-- name: Abo Akademi University
+- name: Åbo Akademi University
   url: https://www.abo.fi/
 role: Senior University Lecturer
 social:
@@ -42,7 +43,7 @@ superuser: true
 title: Luigia Petre
 ---
 
-Luigia Petre is a docent (the equivalent of Habilitation in Central Europe) in Computer Science with focus on Networked Systems since 2012. She has obtained her PhD in Computer Science in 2005, from the{{< staticref "https://www.abo.fi/om-abo-akademi/fakulteterna/fakulteten-for-naturvetenskaper-och-teknik/" "newtab" >}} Faculty on Mathematics and Natural Sciences {{< /staticref >}}at{{< staticref "https://www.abo.fi/" "newtab" >}} Åbo Akademi University{{< /staticref >}}. She is currently working as Associate Professor in Computer Science at Åbo Akademi University, Faculty of Science and Engineering. In Swedish: Akademilektor. 
+Luigia Petre is a docent (equivalent to "Habilitation" in Central Europe) in Computer Science since 2012. She has obtained her PhD in Computer Science in 2005, from the{{< staticref "https://www.abo.fi/om-abo-akademi/fakulteterna/fakulteten-for-naturvetenskaper-och-teknik/" "newtab" >}} Faculty on Mathematics and Natural Sciences {{< /staticref >}}at{{< staticref "https://www.abo.fi/" "newtab" >}} Åbo Akademi University.{{< /staticref >}} She is currently working as Associate Professor in Computer Science at Åbo Akademi University, Faculty of Science and Engineering. In Swedish: *Akademilektor*. 
 Luigia was born in Romania.
 
 
