@@ -46,4 +46,4 @@ Luigia Petre is a docent (the equivalent of Habilitation in Central Europe) in C
 Luigia was born in Romania.
 
 
-{{< icon name="earth" pack="fas" >}} Visit my {{< staticref "https://www.abo.fi/en/contact/luigia-petre/" "newtab" >}}Research Page{{< /staticref >}}.
+{{< icon name="earth" pack="fas" >}} Visit my {{< staticref "https://www.abo.fi/en/contact/luigia-petre/" "newtab" >}}Research Page.{{< /staticref >}}
