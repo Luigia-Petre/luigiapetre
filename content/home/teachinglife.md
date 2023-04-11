@@ -22,7 +22,7 @@ feature:
     icon: phd
     icon_pack: custom
     name: PhD Students
-  - description: Shahnoor Shahnoor(2023), Sujan Shrestra(2023), Evan Roman(2023), Joel Sjöberg (2021), Olav Lillerovde (2020), Thang Ngo Minh (2020), Gohar Shah (2017), Olujuwon Alabi (2016), Sushil Pandey (2015), Karl Herler (2014), Joseph Aduayi-Akue (2014), Obe Olabode (2014), Abdoulie Sidibeh (2013), Haider Raza (2012), Mustafa Hassan (2009), Raluca-Maria Indre (2008), Jonas Olme (2007), Laura Nummila (2006), Patrik Herrgård (2002)
+  - description: Rasmus Bogel (2024), Shahnoor Shahnoor(2023), Sujan Shrestra(2023), Evan Roman(2023), Joel Sjöberg (2021), Olav Lillerovde (2020), Thang Ngo Minh (2020), Gohar Shah (2017), Olujuwon Alabi (2016), Sushil Pandey (2015), Karl Herler (2014), Joseph Aduayi-Akue (2014), Obe Olabode (2014), Abdoulie Sidibeh (2013), Haider Raza (2012), Mustafa Hassan (2009), Raluca-Maria Indre (2008), Jonas Olme (2007), Laura Nummila (2006), Patrik Herrgård (2002)
                  
     icon: msc
     icon_pack: custom
