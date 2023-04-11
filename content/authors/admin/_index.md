@@ -1,9 +1,9 @@
 ---
-bio: My research interests include machine learning, data science, formal methods and network modeling and analysis 
+bio: My research interests include machine learning, formal methods, machine learning explainability and teaching methods. 
 education:
   courses:
-  - course: PhD in Computer Science on Modeling Techniques in Formal Methods
-    institution: Abo Akademi University
+  - course: PhD in Computer Science on Modeling Techniques with Formal Methods. Thesis title: **__Modeling with Action Systems__**.
+    institution: Åbo Akademi University
     year: 2005
     
   
