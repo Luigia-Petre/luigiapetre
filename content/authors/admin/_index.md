@@ -3,7 +3,7 @@ bio: My research interests include machine learning, formal methods, machine lea
 education:
   courses:
   - course: PhD in Computer Science on Modeling Techniques with Formal Methods. Thesis title: 
-  "Modeling with Action Systems".
+"Modeling with Action Systems".
     institution: Åbo Akademi University
     year: 2005
     
