@@ -16,7 +16,7 @@ interests:
 - Network Modeling and analysis
 last_name: Petre
 organizations:
-- name: Abo Akademi University
+- name: Åbo Akademi University
   url: https://www.abo.fi/
 role: Senior University Lecturer
 social:
