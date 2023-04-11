@@ -44,7 +44,7 @@ title: Luigia Petre
 ---
 
 Luigia Petre is a docent (equivalent to "Habilitation" in Central Europe) in Computer Science since 2012. She has obtained her PhD in Computer Science in 2005, from the{{< staticref "https://www.abo.fi/om-abo-akademi/fakulteterna/fakulteten-for-naturvetenskaper-och-teknik/" "newtab" >}} Faculty on Mathematics and Natural Sciences {{< /staticref >}}at{{< staticref "https://www.abo.fi/" "newtab" >}} Åbo Akademi University.{{< /staticref >}} She is currently working as Associate Professor in Computer Science at Åbo Akademi University, Faculty of Science and Engineering. In Swedish: *Akademilektor*. 
-Luigia was born in Romania.
+Luigia was born in Romania..
 
 
 {{< icon name="earth" pack="fas" >}} Visit my {{< staticref "https://www.abo.fi/en/contact/luigia-petre/" "newtab" >}}Research Page.{{< /staticref >}}
