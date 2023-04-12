@@ -11,7 +11,7 @@ email: "luigia.petre@abo.fi"
 first_name: Luigia
 highlight_name: true
 interests:
-- Machine Learning and Data Science
+- Machine Learning
 - Formal Methods
 - Machine Learning Explainability
 - Teaching Methods
