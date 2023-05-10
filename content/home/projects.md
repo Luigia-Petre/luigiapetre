@@ -28,6 +28,8 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+COST Actions: COST(European Cooperation in Science and Technology), a funding organization for research and innovation networks: {{<staticref"https://www.g2net.eu/wgs/wg3-machine-learning-for-advanced-control-techniques" "newtab">}}G2NET{{</staticref>}} and {{<staticref"https://europroofnet.github.io/" "newtab">}}EuroProofNet{{</staticref>}}
+
 {{<staticref "http://www.it.abo.fi/fresco/" "newtab">}}FResCo{{</staticref>}}: High-quality Measurement Infrastructure for Future Resilient Control Systems, 2013-2015, Academy of Finland.
     Partners: Åbo Akademi University, University of Eastern Finland, Digile, CLEEN and Fimecc
 
@@ -39,4 +41,4 @@ NODES: Network on Dependable Systems, 2007-2012, Nordforsk
     Partners: Finland, Sweden, Denmark, Norway, Estonia
     {{<staticref"http://www.it.abo.fi/NODESWinterSchool/" "newtab">}}NODES Winter School{{</staticref>}}, February 2012
 
-COST Actions: COST(European Cooperation in Science and Technology), a funding organization for research and innovation networks: {{<staticref"https://www.g2net.eu/wgs/wg3-machine-learning-for-advanced-control-techniques" "newtab">}}G2NET{{</staticref>}} and {{<staticref"https://europroofnet.github.io/" "newtab">}}EuroProofNet{{</staticref>}}
+
