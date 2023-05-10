@@ -2,7 +2,7 @@
 bio: My research interests include machine learning, formal methods, machine learning explainability and teaching methods. 
 education:
   courses:
-  - course: PhD in Computer Science on Modeling Techniques with Formal Methods (titled  [Modeling with Action Systems] (https://tucs.fi/publications/view/?pub_id=phdPetre05a)
+  - course: PhD in Computer Science on Modeling Techniques with Formal Methods (titled  [Modeling with Action Systems](https://tucs.fi/publications/view/?pub_id=phdPetre05a)
     institution: Åbo Akademi University
     year: 2005
     
