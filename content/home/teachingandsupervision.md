@@ -36,9 +36,6 @@ feature:
     icon_pack: custom
     name: MSc Students
   
-
-  
-
 design:
   columns: '2'
 ---
