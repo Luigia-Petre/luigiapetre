@@ -44,7 +44,7 @@ Integrated Formal Methods conference: [IFM’2002](http://tucs.fi/conferences/if
 
 4. Organization committee membership
  - Organization Committee Chair of [iFM 2013:](http://www.it.abo.fi/iFM2013/index.php) 10th International   Conference on integrated Formal Methods, Turku, Finland, June 10-14, 2013
- - Organizer of the [NODES Winter School and Seminar](http://www.it.abo.fi/NODESWinterSchool/), Turku, Finland, February 1-3, 2012
+ - Organizer of the NODES Winter School and Seminar, Turku, Finland, February 1-3, 2012
  - Co-organizer of the [NWPT’10 workshop:](https://research.it.abo.fi/nwpt10/) 22nd Nordic Workshop on Programming Theory, Turku, Finland, November 10-12, 2010
  - Co-organizer of the [FM’08 symposium](http://www.fm2008.abo.fi/):  The 15th International Symposium on Formal Methods, Turku, Finland, 26-30.5.2008
  - Co-organizer of [NODES 07](http://crest.abo.fi/NODES/NODES07/),  [NODES 08](http://cs.ttu.ee/nodes08/), [NODES 09](http://www.ida.liu.se/conferences/CRIS2009/NODES09/) workshops
