@@ -2,7 +2,7 @@
 bio: My research interests include machine learning, formal methods, machine learning explainability and teaching methods. 
 education:
   courses:
-  - course: PhD in Computer Science on Modeling Techniques with Formal Methods {{<staticref          "https://tucs.fi/publications/view/?pub_id=phdPetre05a""newtab">}}Modeling     with Action         Systems{{</staticref>}} 
+  - course: PhD in Computer Science on Formal Modeling Techniques, titled *Modeling with Action Systems*
     institution: Åbo Akademi University
     year: 2005
     
@@ -43,7 +43,7 @@ superuser: true
 title: Luigia Petre
 ---
 
-Luigia Petre obtained her PhD in Computer Science in 2005, from the{{< staticref "https://www.abo.fi/om-abo-akademi/fakulteterna/fakulteten-for-naturvetenskaper-och-teknik/" "newtab" >}} Faculty on Mathematics and Natural Sciences {{< /staticref >}}at{{< staticref "https://www.abo.fi/" "newtab" >}} Åbo Akademi University.{{< /staticref >}} She is also a docent (equivalent to "Habilitation" in Central Europe) in Computer Science since 2012 and is currently working as Associate Professor in Computer Science at Åbo Akademi University, Faculty of Science and Engineering. In Swedish: *Äldre universitetslektor*. 
+Luigia Petre obtained her PhD in Computer Science in 2005, from the Faculty on Mathematics and Natural Sciences at{{< staticref "https://www.abo.fi/" "newtab" >}} Åbo Akademi University.{{< /staticref >}} She is a docent (equivalent to "Habilitation" in Central Europe) in Computer Science since 2012 and is currently working as Associate Professor in Computer Science at Åbo Akademi University, Faculty of Science and Engineering. In Swedish: *Äldre universitetslektor*. 
 
 Luigia was born in Romania.
 
