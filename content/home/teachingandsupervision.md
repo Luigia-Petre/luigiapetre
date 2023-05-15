@@ -8,10 +8,17 @@ headless: true
 # Order that this section appears on the page.
 weight: 100
 
-title: Teaching life
+title: Teaching and Supervision
 subtitle:
 
 feature:  
+ - description: Software Quality-
+                 {{<staticref "https://moodle.abo.fi/course/view.php?id=8404" "newtab" >}} Period 1{{</staticref>}},
+                 System Safety- {{<staticref "https://moodle.abo.fi/course/view.php?id=8405" "newtab" >}}Period 2{{</staticref>}},
+                 Tools for Reliable Software Construction{{<staticref "https://moodle.abo.fi/enrol/index.php?id=8406" "newtab">}}Period 3{{</staticref>}}
+    icon: teaching
+    icon_pack: custom
+    name: Yearly-held Courses 
   - description: Frankie Spencer (Present),
                  Usman Sanwal ([17.4.20](https://www.dropbox.com/s/c64hu4wd5n86g2z/Slide1.png?dl=0)),
                  Mojgan Kamali ([13.11.15](http://users.abo.fi/lpetre/mojgan%27s%20defence)),
@@ -27,13 +34,7 @@ feature:
     icon: msc
     icon_pack: custom
     name: MSc Students
-  - description: Software Quality-
-                 {{<staticref "https://moodle.abo.fi/course/view.php?id=8404" "newtab" >}} Period 1{{</staticref>}},
-                 System Safety- {{<staticref "https://moodle.abo.fi/course/view.php?id=8405" "newtab" >}}Period 2{{</staticref>}},
-                 Tools for Reliable Software Construction{{<staticref "https://moodle.abo.fi/enrol/index.php?id=8406" "newtab">}}Period 3{{</staticref>}}
-    icon: teaching
-    icon_pack: custom
-    name: Courses 
+  
 
   
 
