@@ -29,15 +29,15 @@ design:
   flip_alt_rows: false
 ---
 * COST Actions: [COST](https://www.cost.eu) (European COoperation in Science and Technology) is a funding organization for research networks.  
-  * {{<staticref"https://www.g2net.eu/" "newtab">}}G2NET{{</staticref>}}
-  * {{<staticref"https://europroofnet.github.io/" "newtab">}}EuroProofNet{{</staticref>}}
+  * {{<staticref"https://www.g2net.eu/" "newtab">}}G2NET{{</staticref>}} (2018-2023)
+  * {{<staticref"https://europroofnet.github.io/" "newtab">}}EuroProofNet{{</staticref>}} (2021-2025)
 
 * FResCo: High-quality Measurement Infrastructure for Future Resilient Control Systems, 2013-2015, Academy of Finland.
-    * Partners: Åbo Akademi University, University of Eastern Finland, Digile, CLEEN and Fimecc
+    * Partners: Åbo Akademi University, University of Eastern Finland, Digile, CLEEN, Fimecc
 
-* {{<staticref "https://www.dropbox.com/s/o44qm20esp8ysf7/D54%20final%20report%20Enlarged%20EU%20-%20for%20internal%20review.pdf?dl=0" "newtab">}}Deploy-Enlarged{{</staticref>}}: extension of FP7 
+* {{<staticref "https://www.dropbox.com/s/o44qm20esp8ysf7/D54%20final%20report%20Enlarged%20EU%20-%20for%20internal%20review.pdf?dl=0" "newtab">}}Deploy-Enlarged{{</staticref>}} (2010-2012): extension of FP7 
 {{<staticref "https://dl.acm.org/doi/10.1145/2347696.2347710" "newtab">}}Deploy{{</staticref>}} project, 2008-2012, EU.
-    * Partners: France, UK, Germany, Romania, Finland, Switzerland and Spain
+    * Partners: France, UK, Germany, Romania, Finland, Switzerland, Spain
 
 * NODES: Network on Dependable Systems, 2007-2012, Nordforsk.
     * Partners: Finland, Sweden, Denmark, Norway, Estonia
