@@ -29,8 +29,8 @@ design:
   flip_alt_rows: false
 ---
 * COST Actions: [COST](https://www.cost.eu) (European COoperation in Science and Technology) is a funding organization for research networks.  
- * {{<staticref"https://www.g2net.eu/" "newtab">}}G2NET{{</staticref>}}
- * {{<staticref"https://europroofnet.github.io/" "newtab">}}EuroProofNet{{</staticref>}}
+  * {{<staticref"https://www.g2net.eu/" "newtab">}}G2NET{{</staticref>}}
+  * {{<staticref"https://europroofnet.github.io/" "newtab">}}EuroProofNet{{</staticref>}}
 
 * FResCo: High-quality Measurement Infrastructure for Future Resilient Control Systems, 2013-2015, Academy of Finland.
     Partners: Åbo Akademi University, University of Eastern Finland, Digile, CLEEN and Fimecc
