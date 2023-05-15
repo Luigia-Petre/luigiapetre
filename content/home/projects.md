@@ -28,16 +28,16 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
-COST Actions: COST(European Cooperation in Science and Technology), a funding organization for research and innovation networks: {{<staticref"https://www.g2net.eu/wgs/wg3-machine-learning-for-advanced-control-techniques" "newtab">}}G2NET{{</staticref>}} and {{<staticref"https://europroofnet.github.io/" "newtab">}}EuroProofNet{{</staticref>}}
+* COST Actions: COST(European Cooperation in Science and Technology), a funding organization for research and innovation networks: {{<staticref"https://www.g2net.eu/" "newtab">}}G2NET{{</staticref>}} and {{<staticref"https://europroofnet.github.io/" "newtab">}}EuroProofNet{{</staticref>}}
 
-{{<staticref "http://www.it.abo.fi/fresco/" "newtab">}}FResCo{{</staticref>}}: High-quality Measurement Infrastructure for Future Resilient Control Systems, 2013-2015, Academy of Finland.
+* {{<staticref "http://www.it.abo.fi/fresco/" "newtab">}}FResCo{{</staticref>}}: High-quality Measurement Infrastructure for Future Resilient Control Systems, 2013-2015, Academy of Finland.
     Partners: Åbo Akademi University, University of Eastern Finland, Digile, CLEEN and Fimecc
 
-{{<staticref "http://www.deploy-project.eu/pdf/D54.pdf" "newtab">}}Deploy-Enlarged{{</staticref>}}: extension of FP7 
-{{<staticref "http://www.deploy-project.eu/" "newtab">}}Deploy{{</staticref>}} project, 2010-2012, EU.
+* {{<staticref "https://www.dropbox.com/s/o44qm20esp8ysf7/D54%20final%20report%20Enlarged%20EU%20-%20for%20internal%20review.pdf?dl=0" "newtab">}}Deploy-Enlarged{{</staticref>}}: extension of FP7 
+{{<staticref "https://dl.acm.org/doi/10.1145/2347696.2347710" "newtab">}}Deploy{{</staticref>}} project, 2008-2012, EU.
     Partners: France, UK, Germany, Romania, Finland, Switzerland and Spain
 
-NODES: Network on Dependable Systems, 2007-2012, Nordforsk
+* NODES: Network on Dependable Systems, 2007-2012, Nordforsk
     Partners: Finland, Sweden, Denmark, Norway, Estonia
     {{<staticref"http://www.it.abo.fi/NODESWinterSchool/" "newtab">}}NODES Winter School{{</staticref>}}, February 2012
 
