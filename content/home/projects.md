@@ -32,6 +32,10 @@ design:
   * {{<staticref"https://www.g2net.eu/" "newtab">}}G2NET{{</staticref>}} (2018-2023)
   * {{<staticref"https://europroofnet.github.io/" "newtab">}}EuroProofNet{{</staticref>}} (2021-2025)
 
+* Ella and Georg Ehrnrooth Foundation’s research grant --> Ref-Adapt: Refinement-Based Modeling for Adaptive Networks, July-December 2017 
+
+* Harry Elvings legat Foundation’s research grant for travelling abroad, July-December 2017 
+
 * FResCo: High-quality Measurement Infrastructure for Future Resilient Control Systems, 2013-2015, Academy of Finland.
     * Partners: Åbo Akademi University, University of Eastern Finland, Digile, CLEEN, Fimecc
 
