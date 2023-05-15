@@ -20,8 +20,8 @@ main:
   - name: Scientific Activities
     url: '#scientificactivities'
     weight: 60
-  - name: Teaching Life
-    url: '#teachinglife'
+  - name: Teaching and Supervision
+    url: '#teachingandsupervision'
     weight: 50
   - name: Contact
     url: '#contact'
