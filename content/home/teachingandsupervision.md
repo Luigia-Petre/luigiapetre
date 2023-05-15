@@ -16,8 +16,8 @@ feature:
                  {{<staticref "https://moodle.abo.fi/course/view.php?id=8404" "newtab" >}} Period 1{{</staticref>}},
                  System Safety- {{<staticref "https://moodle.abo.fi/course/view.php?id=8405" "newtab" >}}Period 2{{</staticref>}},
                  Tools for Reliable Software Construction{{<staticref "https://moodle.abo.fi/enrol/index.php?id=8406" "newtab">}}Period 3{{</staticref>}}
+    
     icon: teaching
-   
     icon_pack: custom
     name: Yearly-held Courses 
   - description: Frankie Spencer (Present),
