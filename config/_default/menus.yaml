@@ -14,8 +14,8 @@ main:
     url: '#events'
     weight: 40
   - name: Publications
-    url: '#publications'
-    weight: 30
+    url : '#publications'
+    weight : 30
   - name: Scientific Activities
     url: '#scientificactivities'
     weight: 60
