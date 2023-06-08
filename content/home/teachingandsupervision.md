@@ -21,7 +21,8 @@ feature:
     name: Yearly-held Courses 
   
   - description: Frankie Spencer (Present),
-                 Usman Sanwal ([17.4.20](https://www.dropbox.com/s/c64hu4wd5n86g2z/Slide1.png?dl=0)),
+                 Usman Sanwal           
+                 ([17.4.20](https://www.dropbox.com/s/c64hu4wd5n86g2z/Slide1.png?dl=0)),
                  Mojgan Kamali ([13.11.15](http://users.abo.fi/lpetre/mojgan%27s%20defence)),
                  Petter Sandvik([13.11.15](http://users.abo.fi/lpetre/petter%27s%20defence)),
                  Maryam Kamali ([13.9.13](http://users.abo.fi/lpetre/maryam%27s%20defence)),
