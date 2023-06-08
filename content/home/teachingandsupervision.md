@@ -18,7 +18,7 @@ feature:
                  Tools for Reliable Software Construction{{<staticref "https://moodle.abo.fi/enrol/index.php?id=8406" "newtab">}}Period 3{{</staticref>}}
     icon: teaching
     icon_pack: custom
-    name: Yearly-held Courses 
+    name: Yearly held Courses 
   
   - description: Frankie Spencer (Present),
                  Usman Sanwal           
